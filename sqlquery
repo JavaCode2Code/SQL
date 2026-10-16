@@ -1,1 +1,1 @@
-
+Select Max(SALARY) from employee where salary<(Select MAX(Salary) form empolyee)
